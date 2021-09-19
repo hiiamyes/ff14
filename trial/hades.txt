@@ -1,0 +1,28 @@
+/p phase 1
+/p - SHADOW SPREAD
+/p  D1 MT D2
+/p  H1    H2
+/p  D3 OT D4
+/p RAVENOUS ASSAULT = MT Invuln
+/p ■ FIRE/ICE TETHERS (adjust for aspect)
+/p 　MT OT
+/p 　 　 　 ●
+/p　 H1　　　　H2
+/p ■ UNIVERSAL MANIPULATION (DPS rotate CW>)
+/p 　　　 D1
+/p 　　 　MT　
+/p D3 H1　●　H2 D2
+/p 　　 　OT
+/p 　　　 D4
+/p ==========
+/p phase 2
+/p ■ AGAIN THE MARTYR (Tank rotate CW>)
+/p 　　D1　　　 D2
+/p   OT H1 　●　 H2 MT
+/p 　　D3　　　 D4
+/p ■ AGAIN THE ABYSSAL CELEBRANT (Range bait puddles)
+/p D1 H1 OT　　MT H2 D2
+/p 　　　　　●
+/p 　　D3　　　　　D4
+/p ■ DARK CURRENT (Exaflares)
+/p Stack NW, dodge up/down 3x, stay.
