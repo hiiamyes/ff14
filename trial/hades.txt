@@ -1,17 +1,16 @@
-/p phase 1
-/p - SHADOW SPREAD
-/p  D1 MT D2
+/p Shadow Spread
+/p  D1 MT D3
 /p  H1    H2
-/p  D3 OT D4
-/p RAVENOUS ASSAULT = MT Invuln
-/p ■ FIRE/ICE TETHERS (adjust for aspect)
-/p 　MT OT
-/p 　 　 　 ●
-/p　 H1　　　　H2
-/p ■ UNIVERSAL MANIPULATION (DPS rotate CW>)
+/p  D2 OT D4
+/p Ravenous Assault
+/p  MT invul
+/p Fire/Ice Tether
+/p  North = MT OT
+/p  South = H1 H2
+/p Universal Manipulation
 /p 　　　 D1
-/p 　　 　MT　
-/p D3 H1　●　H2 D2
+/p MT　
+/p D3 H1  H2 D2
 /p 　　 　OT
 /p 　　　 D4
 /p ==========
