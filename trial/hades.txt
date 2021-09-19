@@ -1,4 +1,5 @@
-/p Shadow Spread
+
+/p ===== Shadow Spread =====
 /p  D1 MT D3
 /p  H1    H2
 /p  D2 OT D4
@@ -8,14 +9,12 @@
 /p  North = MT OT
 /p  South = H1 H2
 /p Universal Manipulation
-/p 　　　 D1
-/p MT　
-/p D3 H1  H2 D2
-/p 　　 　OT
-/p 　　　 D4
-/p ==========
-/p phase 2
-/p ■ AGAIN THE MARTYR (Tank rotate CW>)
+/p      D1
+/p      MT　
+/p D2 H1  H2 D3
+/p      OT
+/p      D4
+/pAgain The Martyr  (Tank rotate CW>)
 /p 　　D1　　　 D2
 /p   OT H1 　●　 H2 MT
 /p 　　D3　　　 D4
@@ -25,3 +24,27 @@
 /p 　　D3　　　　　D4
 /p ■ DARK CURRENT (Exaflares)
 /p Stack NW, dodge up/down 3x, stay.
+
+/s ===== Shadow Spread =====
+/s  D1 MT D3
+/s  H1       H2
+/s  D2 OT D4
+/s ===== Ravenous Assault =====
+/s  MT invul
+/s ===== Fire/Ice Tether =====
+/s  North = MT OT
+/s  South = H1 H2
+/s ===== Universal Manipulation =====
+/s           D1
+/s           MT　
+/s D2 H1   H2 D3
+/s           OT
+/s           D4
+
+/s ===== Again The Martyr =====
+/s    D1  D3
+/s MTH1    H2OT
+/s    D2  D4
+/s ===== Again The Abyssal Celebrant =====
+/s MTH1D1 OTH2D3
+/s     D2 D4
