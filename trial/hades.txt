@@ -1,29 +1,28 @@
-
 /p ===== Shadow Spread =====
 /p  D1 MT D3
-/p  H1    H2
+/p  H1       H2
 /p  D2 OT D4
-/p Ravenous Assault
+/p ===== Ravenous Assault =====
 /p  MT invul
-/p Fire/Ice Tether
+/p ===== Fire/Ice Tether =====
 /p  North = MT OT
 /p  South = H1 H2
-/p Universal Manipulation
-/p      D1
-/p      MT　
-/p D2 H1  H2 D3
-/p      OT
-/p      D4
-/pAgain The Martyr  (Tank rotate CW>)
-/p 　　D1　　　 D2
-/p   OT H1 　●　 H2 MT
-/p 　　D3　　　 D4
-/p ■ AGAIN THE ABYSSAL CELEBRANT (Range bait puddles)
-/p D1 H1 OT　　MT H2 D2
-/p 　　　　　●
-/p 　　D3　　　　　D4
-/p ■ DARK CURRENT (Exaflares)
-/p Stack NW, dodge up/down 3x, stay.
+/p ===== Universal Manipulation =====
+/p           D1
+/p           MT　
+/p D2 H1   H2 D3
+/p           OT
+/p           D4
+
+/p ===== Again The Martyr =====
+/p   D1 D3
+/p MTH1 H2OT
+/p   D2 D4
+/p ===== Again The Abyssal Celebrant =====
+/p MTH1D1 D3H2OT
+/p     D2 D4
+/p ===== Quadrastrike =====
+/p MT OT
 
 
 
@@ -44,9 +43,11 @@
 /s           D4
 
 /s ===== Again The Martyr =====
-/s    D1  D3
-/s MTH1    H2OT
-/s    D2  D4
+/s       D1   D3
+/s MT H1   H2 OT
+/s       D2   D4
 /s ===== Again The Abyssal Celebrant =====
-/s MTH1D1 D3H2OT
-/s     D2 D4
+/s MT H1 D1   D3 H2 OT
+/s             D2   D4
+/s ===== Quadrastrike =====
+/s MT OT
