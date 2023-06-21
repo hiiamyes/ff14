@@ -2,9 +2,9 @@ whm
 1st ultima -> bell
 1st wings -> mitigate
 
-turret -> bell + mitigate
+turret ping pong -> bell + mitigate
 
-(x) 2nd pillars -> mitigate
+2nd pillars -> mitigate
 
 hh from 2nd knock? -> mitigate + bell
 
