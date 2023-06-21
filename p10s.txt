@@ -6,6 +6,6 @@ turret -> bell + mitigate
 
 (x) 2nd pillars -> mitigate
 
-hh from 2nd knock? -> mitigate
+hh from 2nd knock? -> mitigate + bell
 
 silkspit/pillars -> mitigate
