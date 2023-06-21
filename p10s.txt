@@ -4,7 +4,7 @@ whm
 
 turret -> bell + mitigate
 
-2nd pillars -> mitigate
+(x) 2nd pillars -> mitigate
 
 hh from 2nd knock? -> mitigate
 
