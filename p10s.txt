@@ -8,4 +8,4 @@ turret -> bell + mitigate
 
 hh from 2nd knock? -> mitigate
 
-silkspit -> mitigate
+silkspit/pillars -> mitigate
