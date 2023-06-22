@@ -1,14 +1,12 @@
 whm
-0:09 1st ultima   > bell
-0:32 1st wings    > mitigate
+1:58 silkspit  > mitigate
 
-turret ping pong  > bell + mitigate
+2:35 ultima    > bell
 
-2nd pillars -> mitigate
+5:05 silkspit  > mitigate
 
-hh from 2nd knock? -> mitigate + bell
-
-silkspit/pillars -> mitigate
+7:12 hh        > mitigate + bell
+9:38 silkspit  > mitigate
 
 # gnb
 0:19 soul grasp   > invul / 120(?)
