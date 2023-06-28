@@ -4,9 +4,10 @@ whm
 xx 1:58 silkspit  > mitigate
 xx 2:35 ultima    > bell
 
-3:26 ping pong > mitigate + bell
+3:26 ping pong  > mitigate + bell
+xx 4:04 ultima     > bell
 
-05:08 silkspit  > mitigate
+xx 05:08 silkspit  > mitigate
 xx 05:29  bond#3   > mitigate
 
 7:12 hh        > mitigate + bell!!!
